@@ -1,3 +1,3 @@
 # rn-calculator
 
-<h3>Import node_modules!</h3>
+<h5>Import node_modules before running the app.</h5>
